@@ -52,7 +52,3 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 ## Contato
 
 Se tiver dúvidas ou sugestões, entre em contato pelo email: rafah_lima2011@hotmail.com
-
---- 
-
-Adapte as instruções de instalação, comandos e informações de contato conforme necessário para o seu projeto específico.
